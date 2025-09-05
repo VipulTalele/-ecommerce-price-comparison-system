@@ -1,0 +1,7 @@
+
+🔍 Searching on Amazon...
+{
+  "amazon": [],
+  "flipkart": [],
+  "snapdeal": []
+}
